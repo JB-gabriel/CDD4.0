@@ -1,0 +1,159 @@
+
+1. Faça um algoritmo que receba 2 notas e calcule a média aritmética 
+Usando descrição narrativa e Fluxograma
+
+
+Início do Algoritmo.
+
+Receber a primeira nota. Peça ao usuário para digitar a primeira nota e armazene-a em uma variável, que vamos chamar de nota1.
+
+Receber a segunda nota. Peça ao usuário para digitar a segunda nota e armazene-a em uma variável, que vamos chamar de nota2.
+
+Calcular a média. Some o valor de nota1 e o valor de nota2, e divida o resultado por 2. Armazene esse resultado em uma variável chamada media.
+
+Exibir o resultado. Mostre a media calculada para o usuário.
+
+Fim do Algoritmo.
+
+graph TD
+    A[Início] --> B{Ler nota1};
+    B --> C{Ler nota2};
+    C --> D[media = (nota1 + nota2) / 2];
+    D --> E[Exibir media];
+    E --> F[Fim];
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+2. Crie um algoritmo que leia um número diferente de zero e diga se este número é positivo ou negativo
+ Usando descrição narrativa e Fluxograma
+	1. Descrição Narrativa
+	Este algoritmo analisa um número para determinar se ele é positivo ou negativo.
+
+	Início do Algoritmo.
+
+	Receber um número. Peça ao usuário para digitar um número diferente de zero. Armazene este valor em uma variável, que chamaremos de numero.
+
+	Verificar a condição. Verifique se o valor de numero é maior que zero.
+
+	Decidir a saída.
+
+	Se o numero for maior que zero, exiba a mensagem: "O número é positivo."
+
+	Senão (o que significa que o número é menor que zero, já que a entrada não pode ser zero), exiba a mensagem: "O número é negativo."
+
+Fim do Algoritmo.
+
+2. Fluxograma
+A[Início] --> B{Ler numero};
+    B --> C{numero > 0?};
+    C -- Sim --> D[Exibir "O número é positivo"];
+    C -- Não --> E[Exibir "O número é negativo"];
+    D --> F[Fim];
+    E --> F;
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+3. Crie um algoritmo que leia a idade de uma pessoa e diga em qual ano ela nasceu Usando descrição 
+narrativa e Fluxograma
+
+1. Descrição Narrativa
+Este algoritmo calcula o ano de nascimento de uma pessoa com base na idade fornecida e no ano atual.
+
+Início do Algoritmo.
+
+Definir o ano atual. O algoritmo precisa saber o ano em que estamos. Vamos definir uma variável chamada ano_atual e atribuir a ela o valor do ano corrente (2025).
+
+Receber a idade. Peça ao usuário para digitar a idade da pessoa e armazene-a em uma variável chamada idade.
+
+Calcular o ano de nascimento. Subtraia o valor de idade do ano_atual. O resultado será o ano de nascimento. Armazene esse valor em uma variável chamada ano_de_nascimento.
+
+Exibir o resultado. Mostre para o usuário o valor calculado de ano_de_nascimento.
+
+Fim do Algoritmo.
+
+2. Fluxograma
+Abaixo está a representação visual do algoritmo em um fluxograma:
+
+Snippet de código
+
+graph TD
+    A[Início] --> B[ano_atual = 2025];
+    B --> C{Ler idade};
+    C --> D[ano_de_nascimento = ano_atual - idade];
+    D --> E[Exibir ano_de_nascimento];
+    E --> F[Fim];
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+4. Crie um algoritmo que receba 3 números e informe qual o maior entre eles.Usando descrição narrativa e Fluxograma 
+
+1. Descrição Narrativa
+Este algoritmo identifica o maior de três números dados.
+
+Início do Algoritmo.
+
+Receber os números. Peça ao usuário para digitar três números. Armazene-os em variáveis chamadas numero1, numero2 e numero3.
+
+Comparar o primeiro e o segundo número.
+
+Se numero1 for maior que numero2, considere numero1 como o maior número até agora.
+
+Senão, considere numero2 como o maior número até agora.
+
+Comparar o maior número até agora com o terceiro.
+
+Se numero3 for maior que o número considerado maior até agora, atualize o maior número para numero3.
+
+Exibir o resultado. Mostre para o usuário qual dos três números é o maior.
+
+Fim do Algoritmo.
+
+2. Fluxograma
+Abaixo está a representação visual do algoritmo em um fluxograma:
+
+Snippet de código
+
+graph TD
+    A[Início] --> B{Ler numero1};
+    B --> C{Ler numero2};
+    C --> D{Ler numero3};
+    D --> E{numero1 > numero2?};
+    E -- Sim --> F[maior = numero1];
+    E -- Não --> G[maior = numero2];
+    F --> H{maior > numero3?};
+    G --> H;
+    H -- Sim --> I[Exibir "O maior é: " maior];
+    H -- Não --> J[Exibir "O maior é: " numero3];
+    I --> K[Fim];
+    J --> K;
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+5. Crie um algoritmo que leia um número e diga se ele é par ou ímpar Usando descrição narrativa e Fluxograma
+
+1. Descrição Narrativa
+Este algoritmo determina se um número é par ou ímpar.
+
+Início do Algoritmo.
+
+Receber um número. Peça ao usuário para digitar um número inteiro. Armazene este valor em uma variável chamada numero.
+
+Verificar a condição. Para saber se o número é par, verifique se o resto da divisão de numero por 2 é igual a zero.
+
+Decidir a saída.
+
+Se o resto da divisão for igual a zero, exiba a mensagem: "O número é par."
+
+Senão (o resto da divisão não é zero), exiba a mensagem: "O número é ímpar."
+
+Fim do Algoritmo.
+
+2. Fluxograma
+Abaixo está a representação visual do algoritmo em um fluxograma:
+
+Snippet de código
+
+graph TD
+    A[Início] --> B{Ler numero};
+    B --> C{numero % 2 == 0?};
+    C -- Sim --> D[Exibir "O número é par"];
+    C -- Não --> E[Exibir "O número é ímpar"];
+    D --> F[Fim];
+    E --> F;

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02006296-4cdc-404e-a943-dffa6c4fe717" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../aula2/desafio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula2/exemoplo4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula2/exemplo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula2/exemplo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula2/exemplo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula2/exemplo5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula3/desafio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula3/desafio2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula3/exemplo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula3/exercicio09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula3/exercicio1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula3/exercicio10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula3/exercicio11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula3/exercicio12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula3/exercicio2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula3/exercicio3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula3/exercicio4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula3/exercicio5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula3/exercicio6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula3/exercicio7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula3/exercicio8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/while/exercicio1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/while/exercicio2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/while/exercicio3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/while/exercicio4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/while/exercicio5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/while/exercicio6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/while/exercicio7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/while/exercicio8.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="33T7yrGDxEIErTMxcZ7PBq8FiaD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.exercicio1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/APRENDIZ T.I/Desktop/aulascdd/CDD4.0/modulo1/aula5&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="aula5" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02006296-4cdc-404e-a943-dffa6c4fe717" name="Changes" comment="" />
+      <created>1759329466241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759329466241</updated>
+      <workItem from="1759329467403" duration="6664000" />
+      <workItem from="1759406119374" duration="2790000" />
+      <workItem from="1759411867965" duration="3058000" />
+      <workItem from="1759419652356" duration="5656000" />
+      <workItem from="1759494739550" duration="2305000" />
+      <workItem from="1760358923805" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/aula5$exercicio1.coverage" NAME="exercicio1 Coverage Results" MODIFIED="1759424581275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/aula5$exercicio2.coverage" NAME="exercicio2 Coverage Results" MODIFIED="1759407038341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/aula5$main.coverage" NAME="main Coverage Results" MODIFIED="1759494827085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/aula5$exercicio3.coverage" NAME="exercicio3 Coverage Results" MODIFIED="1759495097035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
